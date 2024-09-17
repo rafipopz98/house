@@ -1,5 +1,5 @@
 
-const iframeURL = "https://koora.vip/share.php?ch=tnt2_1";
+const iframeURL = "https://koora.vip/share.php?ch=tnt1_1";
 
 document.getElementById('video-frame').src = iframeURL;
 
